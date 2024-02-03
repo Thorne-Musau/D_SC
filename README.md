@@ -7,3 +7,4 @@ This is a Machine learning repository that deals with the basic ML concepts
 * Matplotlib
 * Scikit-Learn
 * Tensorflow
+* Nltk
